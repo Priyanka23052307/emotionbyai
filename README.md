@@ -1,5 +1,11 @@
 # Emotion By AI
 
+## 🔗 Google Colab Notebook
+
+You can run the full project in Google Colab here:  
+[![Open In Colab]https://colab.research.google.com/drive/1rcE7cnaWGZ4HMpWnaMbXqzt3veOfblmq?usp=sharing
+
+
 ## About
 **Emotion By AI** lets users upload a photo and instantly detect the emotion expressed by the person in it using deep learning models and facial landmark features.
 
